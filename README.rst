@@ -1,6 +1,7 @@
 
 
-## Installation
+Installation
+------------
 
 Local installation:
 
@@ -11,6 +12,7 @@ pip install .
 #pip install -e . #installs locally with symlink
 ```
 
-## Usage
+Usage
+-----
 
 See the example file or documentation (if available)
