@@ -7,7 +7,7 @@ Local installation:
 
 ::
 
-    git clone [GIT URL GOES HERE]
+    git clone github.com/ran4/assertionhelper
     cd assertionhelper
     pip install .
     #pip install -e . #installs locally with symlink
