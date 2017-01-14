@@ -5,12 +5,13 @@ Installation
 
 Local installation:
 
-```bash
-git clone [GIT URL GOES HERE]
-cd assertionhelper
-pip install .
-#pip install -e . #installs locally with symlink
-```
+::
+
+    git clone [GIT URL GOES HERE]
+    cd assertionhelper
+    pip install .
+    #pip install -e . #installs locally with symlink
+
 
 Usage
 -----
