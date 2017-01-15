@@ -18,9 +18,7 @@ Generating docs
 
 ::
 
-    sphinx-apidoc -F -o docs assertionhelper
-    cd docs
-    make html
+    make docs
 
 
 Usage
